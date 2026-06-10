@@ -20,6 +20,6 @@ The system processes 4 binary inputs (A, B, C, D) representing the participants'
 * **Other Combinations:** Scenarios with zero or one vote result in no LED activation.
 
 ## Implementation & Testing
-* Theoretical Design:** K-Maps and Boolean algebra were utilized to derive the minimized expressions for Win, Tie, and Lose conditions[cite: 90, 93, 96, 100].
-* Simulation:** The logic circuit was simulated and verified visually[cite: 118].
-* Hardware:** The final design was wired on a breadboard, and all possible input combinations were tested to verify the truth table[cite: 70, 78, 79].
+* Theoretical Design:** K-Maps and Boolean algebra were utilized to derive the minimized expressions for Win, Tie, and Lose conditions.
+* Simulation:** The logic circuit was simulated and verified visually.
+* Hardware:** The final design was wired on a breadboard, and all possible input combinations were tested to verify the truth table.
